@@ -1,13 +1,10 @@
 - 👋 Hi, I’m @Folkwin-Xanderford
 - 👀 I’m interested in coding
-- with any language but Python is
-- my favorite 
+- with any language but Python is my favorite 
 - 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on any
-- kind of project 
+- 💞️ I’m looking to collaborate on any kind of project 
 - 📫 How to reach me: email me at
-- folkwinx@gmail.com or what'sapp me at
-- +250792542353
+folkwinx@gmail.com or what'sapp me at +250792542353
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
